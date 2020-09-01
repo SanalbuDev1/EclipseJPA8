@@ -1,8 +1,8 @@
 # EclipseJPA8
 > Este repositorio contiene diversos proyectos creados con JPA.
 > Nombre de los proyectos
-> > HolaMundoConJpa
-> > HolaMundoEJB
+> > 1. HolaMundoConJpa
+> > 2. HolaMundoEJB
 > > EJBSesionLocal
 > > EJBSesionRemota
 > > SGA-JEE-WEB
