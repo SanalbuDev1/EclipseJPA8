@@ -3,10 +3,11 @@
 > Nombre de los proyectos
 > > 1. HolaMundoConJpa
 > > 2. HolaMundoEJB
-> > EJBSesionLocal
-> > EJBSesionRemota
-> > SGA-JEE-WEB
-> > SGA-JEE-WEB2
+> > 3.EJBSesionLocal
+> > 4. EJBSesionRemota
+> > 5. SGA-JEE-WEB
+> > 6. SGA-JEE-WEB2
+> > 7. Proximamente
 
 _Requisitos para que compilen_
 `
