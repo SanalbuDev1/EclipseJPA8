@@ -7,9 +7,10 @@
 > > EJBSesionRemota
 > > SGA-JEE-WEB
 > > SGA-JEE-WEB2
-_ Requisitos para que compilen _
+
+_Requisitos para que compilen_
 `
-> Glasfish 5
-> Eclipse oxygen 4.7
-> JPA 2.0
+1. Glasfish 5
+2. Eclipse oxygen 4.7
+3. JPA 2.0
 ` 
