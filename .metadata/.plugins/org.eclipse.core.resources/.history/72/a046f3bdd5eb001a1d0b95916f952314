@@ -1,0 +1,14 @@
+package ciclovida;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import org.apache.logging.log4j.*;
+
+public class PersistirObjeto {
+
+	static Logger log = LogManager.getRootLogger();
+	
+	EntityManagerFactory emf = Persistence.createEntityManagerFactory("SgaPu");
+	
+}

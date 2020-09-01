@@ -1,0 +1,25 @@
+CREATE TABLE `test`.`persona` (
+  `idpersona` INT NOT NULL AUTO_INCREMENT,
+  `nombre` VARCHAR(45) NULL,
+  `apellido` VARCHAR(45) NULL,
+  `email` VARCHAR(45) NULL,
+  `telefono` VARCHAR(45) NULL UNIQUE,
+  PRIMARY KEY (`idpersona`));
+
+INSERT INTO `test`.`persona` (`nombre`, `apellido`, `email`, `telefono`) VALUES ('Juan', 'Perez', 'jperez@gmail.com', '5858');
+INSERT INTO `test`.`persona` (`nombre`, `apellido`, `email`, `telefono`) VALUES ('Karla', 'Gomez', 'kg@gmail.com', '5757');
+
+
+CREATE TABLE test.usuario (
+  id_usuario INT NOT NULL AUTO_INCREMENT primary key,
+  id_persona INT NULL,
+  username VARCHAR(45) NULL,
+  password VARCHAR(45) NULL,
+  CONSTRAINT fk_usuario_persona
+    FOREIGN KEY (id_persona)
+    REFERENCES test.persona (idpersona)
+    ON DELETE SET NULL
+    ON UPDATE NO ACTION);
+
+
+	

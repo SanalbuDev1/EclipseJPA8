@@ -1,0 +1,9 @@
+package ciclovida;
+
+import org.apache.logging.log4j.*;
+
+public class PersistirObjeto {
+
+	static Logger log = LogManager.getRootLogger();
+	
+}

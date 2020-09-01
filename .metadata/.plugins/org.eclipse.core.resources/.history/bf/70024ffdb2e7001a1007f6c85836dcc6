@@ -1,0 +1,24 @@
+package Impl;
+
+import javax.naming.*;
+
+import interfaces.PersonaServiceRemote;
+
+
+
+public class ClientePersonaService {
+	public static void main(String[] args) {
+		System.out.println("Prueba de EJB desde el cliente");
+		System.out.println("Iniciando \n");
+		
+		try {
+			
+			Context jndi = new InitialContext();
+			PersonaServiceRemote personaServiceRemote =
+					(PersonaServiceRemote) jndi.lookup("java:global/EjbSesionRemoto!interfaces.PersonaServiceRemote");
+			
+		} catch (NamingException e) {
+			e.printStackTrace(System.out);
+		}
+	}
+}

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;PersistirObjetoJPA&apos; to &apos;CurdPersonaJpa&apos;" description="Rename resource &apos;PersistirObjetoJPA&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/PersistirObjetoJPA" name="CurdPersonaJpa" stamp="1598912233866" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;CurdPersonaJpa&apos; to &apos;CrudPersonaJpa&apos;" description="Rename resource &apos;CurdPersonaJpa&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CurdPersonaJpa" name="CrudPersonaJpa" stamp="1598912256828" updateReferences="true"/>
+</session>

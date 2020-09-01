@@ -1,0 +1,21 @@
+package Impl;
+
+import javax.naming.*;
+
+
+
+public class ClientePersonaService {
+	public static void main(String[] args) {
+		System.out.println("Prueba de EJB desde el cliente");
+		System.out.println("Iniciando \n");
+		
+		try {
+			
+			Context jndi = new InitialContext();
+		
+			
+		} catch (NamingException e) {
+			e.printStackTrace(System.out);
+		}
+	}
+}

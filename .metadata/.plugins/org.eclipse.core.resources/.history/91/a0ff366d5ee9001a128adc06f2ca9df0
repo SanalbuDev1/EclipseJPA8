@@ -1,0 +1,15 @@
+package mx.com.gm.sga.domain;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name="usuario")
+public class Usuario {
+
+	private long idUsuario;
+	private long idPersona;
+	private String username;
+	private String password;
+	
+}

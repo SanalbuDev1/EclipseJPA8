@@ -1,0 +1,23 @@
+package Impl;
+
+import javax.naming.*;
+
+
+
+public class ClientePersonaService {
+	public static void main(String[] args) {
+		System.out.println("Prueba de EJB desde el cliente");
+		System.out.println("Iniciando \n");
+		
+		try {
+			
+			Context jndi = new InitialContext();
+			PersonaServiceImpl personaService = (PersonaServiceImpl) jndi.lookup("java:global/HolaMundoEJB/HolaMundoEJBImpl!beans.HolaMundoEJBRemote");
+			int resul = holaMundoEJBRemote.sumar(10, 4);
+			System.out.println(resul);
+			
+		} catch (NamingException e) {
+			e.printStackTrace(System.out);
+		}
+	}
+}

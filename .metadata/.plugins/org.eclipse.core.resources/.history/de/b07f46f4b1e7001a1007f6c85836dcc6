@@ -1,0 +1,7 @@
+package Impl;
+
+public class ClientePersonaService {
+	public static void main(String[] args) {
+		System.out.println("Iniciando llamado al EJB desde el cliente \n");
+	}
+}

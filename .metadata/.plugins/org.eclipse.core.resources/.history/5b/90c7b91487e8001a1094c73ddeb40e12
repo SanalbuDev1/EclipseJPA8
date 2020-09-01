@@ -1,0 +1,16 @@
+package test;
+
+import javax.persistence.EntityManagerFactory;
+import javax.persistence.Persistence;
+
+import org.apache.logging.log4j.*;
+
+public class ClienteEntidadTest {
+
+	static Logger log = LogManager.getRootLogger();
+	
+	public static void main(String[] args) {
+		EntityManagerFactory emf = Persistence.createEntityManagerFactory("PersonaPU");
+	}
+	
+}

@@ -1,0 +1,8 @@
+package mx.com.gm.sga.domain;
+
+import javax.persistence.Entity;
+
+@Entity(name="persona")
+public class Persona {
+
+}
