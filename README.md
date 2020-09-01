@@ -1,2 +1,4 @@
 # EclipseJPA8
-Java Proyect
+> Este repositorio contiene diversos proyectos creados con JPA.
+> Nombre de los proyectos
+> > HolaMundoConJpa
