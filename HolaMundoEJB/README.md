@@ -10,6 +10,6 @@ Este proyecto contiene las siguientes clases y interfaces
 ```
 @Remote = El cual especifica al servidor de aplicaciones que queremos trabajar con un EJB remoto,
 la forma de llamarlo seria la siguiente @EJB(@EJB(lookup="java:global/HolaMundoEJB/HolaMundoEJBImpl!beans.HolaMundoEJBRemote")
-o en la clase HolaMundoEJBImpl.java se especifica otra manera
+o en la clase TestHolaMundo.java se especifica otra manera
 ```
 
