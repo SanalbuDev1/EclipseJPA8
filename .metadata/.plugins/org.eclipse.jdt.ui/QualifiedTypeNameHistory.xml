@@ -38,7 +38,6 @@
 <fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
 <fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
-<fullyQualifiedTypeName name="mx.com.gm.sga.domain.Persona"/>
 <fullyQualifiedTypeName name="mx.com.gm.sga.domain.Usuario"/>
 <fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityManagerFactory"/>
@@ -46,4 +45,5 @@
 <fullyQualifiedTypeName name="javax.persistence.EntityManager"/>
 <fullyQualifiedTypeName name="javax.persistence.EntityTransaction"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="mx.com.gm.sga.domain.Persona"/>
 </qualifiedTypeNameHistroy>

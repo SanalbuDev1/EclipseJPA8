@@ -11,6 +11,8 @@ E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jsps
 \CrudPersonaJpa\src
 E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3079553439.index
 \SesionLocal\src
+E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\319775353.index
+\sga-jee\src
 E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4000873806.index
 \SGA-JEE-WEB\src
 E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2902640291.index
@@ -23,10 +25,14 @@ E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jsps
 \EjbSesionLocal\src
 E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2279698787.index
 \SesionLocal\src
+E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1716242161.index
+\sga-jee\src
 E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2515558344.index
 \CrudPersonaJpa\src
 E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\120789603.index
 \CurdPersonaJpa\src
+E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\192248978.index
+\sga-jee\src
 E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2765024428.index
 \SesionLocal\src
 E:\DesarroloPer\oxygen\proyecto\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\35744191.index
