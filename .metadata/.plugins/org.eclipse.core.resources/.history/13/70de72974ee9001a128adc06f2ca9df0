@@ -1,7 +1,0 @@
-package mx.com.gm.sga.datos;
-
-public class PersonaDao {
-
-	public List<Persona> findAllPersona;
-	
-}
